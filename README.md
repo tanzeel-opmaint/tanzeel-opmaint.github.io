@@ -14,11 +14,11 @@ Unplanned equipment breakdowns, missed inspections, and scattered work order tra
 
 ## What Opmaint does
 
-- **Automated work orders** — Preventive maintenance schedules automatically generate work orders based on time, meter readings, or usage thresholds, so nothing gets missed
-- **Mobile-ready digital inspections** — Replace paper checklists with mobile forms technicians can fill out directly in the field, capturing photos and notes
-- **Centralized parts inventory** — Track stock levels with low-stock alerts that flag shortages before they delay repairs
-- **AI and IoT-driven predictive maintenance** — Continuously analyze asset and sensor data to flag potential equipment issues before they cause downtime
-- **Real-time dashboards** — Get visibility into asset health, maintenance history, and technician performance across single or multi-site operations
+- **Automated work orders** : Preventive maintenance schedules automatically generate work orders based on time, meter readings, or usage thresholds, so nothing gets missed
+- **Mobile-ready digital inspections** : Replace paper checklists with mobile forms technicians can fill out directly in the field, capturing photos and notes
+- **Centralized parts inventory** : Track stock levels with low-stock alerts that flag shortages before they delay repairs
+- **AI and IoT-driven predictive maintenance** : Continuously analyze asset and sensor data to flag potential equipment issues before they cause downtime
+- **Real-time dashboards** : Get visibility into asset health, maintenance history, and technician performance across single or multi-site operations
 
 ## Who it's for
 
